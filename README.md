@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aloha! 🤙
 
 - 🔭 I’m currently working on [Coherence Spring](https://github.com/coherence-community/coherence-spring)
 - 🌱 I’m currently learning about image processing with Java
