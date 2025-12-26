@@ -12,5 +12,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Kona IRONMAN finisher 2019 - 12h 41m 17s
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ghillert&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghillert&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ghillert&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ghillert&langs_count=5&theme=tokyonight)]()
