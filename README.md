@@ -11,7 +11,3 @@
 - 📫 How to reach me: https://bsky.app/profile/hillert.bsky.social
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Kona IRONMAN finisher 2019 - 12h 41m 17s
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ghillert&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ghillert&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ghillert&layout=compact&theme=radical)
