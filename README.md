@@ -12,7 +12,7 @@ projects and sharing knowledge with fellow developers.
 
 ## What I’m building
 
-I’m building [Pembana](https://github.com/pembana): software for botanical
+I’m building [Pembana](https://pembana.com/): software for botanical
 gardens, arboreta and plant collectors, alongside reusable open-source
 libraries and tools.
 
