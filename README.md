@@ -3,8 +3,8 @@
 **Software engineer · Java Champion · Open-source contributor · DevNexus co-founder**
 
 I’m the founder of [Hillert, Inc.](https://hillert.com/), based on
-Hawaiʻi Island. I build full-stack applications with Java and Spring,
-drawing on a background in enterprise integration and distributed systems.
+Hawaiʻi Island. My work centers on Java and Spring, drawing on a
+background in enterprise integration and distributed systems.
 
 Open source has been part of my professional work since 2011.
 I enjoy building full-stack applications, contributing to open-source
@@ -31,12 +31,18 @@ Selected projects:
 My professional open-source work has included:
 
 - **[Spring Integration](https://github.com/spring-projects/spring-integration)** —
-  Former core team member; creator of the Spring Integration Zip extension.
+  Former core team member; creator of
+  [Spring Integration Extensions](https://github.com/spring-attic/spring-integration-extensions)
+  and the Spring Integration Zip extension.
 - **[Spring Cloud Data Flow](https://github.com/spring-cloud/spring-cloud-dataflow)** —
   Former core team member, with earlier work on Spring XD.
+- **[Spring Batch](https://github.com/spring-projects/spring-batch)** —
+  Contributions including work on the Spring Batch Integration module.
 - **[Coherence Spring](https://github.com/coherence-community/coherence-spring)
   and [Oracle Coherence](https://github.com/oracle/coherence)** —
   Work across Spring integration and distributed data systems.
+- **[Coherence Hibernate](https://github.com/coherence-community/coherence-hibernate)** —
+  Former maintainer.
 
 My repositories also include examples and experiments in application
 integration, image processing and high-precision GPS.
